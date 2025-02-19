@@ -2,8 +2,7 @@
 import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux"; // To get cart items
 import { useNavigate } from "react-router-dom";
-import BackButton from "./BackButton";
-import { clearCart } from "../redux/cartSlice";
+import { clearCart } from "../../redux/cartSlice";
 
 const Checkout = () => {
   const [formData, setFormData] = useState({
@@ -38,7 +37,6 @@ const Checkout = () => {
 
   return (
     <div className="max-w-4xl mx-auto p-6 bg-white rounded-lg shadow-md">
-      <BackButton />
 
       <h2 className="text-2xl font-bold mb-6 text-gray-800">Checkout</h2>
       <form
