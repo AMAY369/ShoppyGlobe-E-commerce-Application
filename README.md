@@ -1,6 +1,6 @@
 # ShoppyGlobe
 
-Live Preview - [ShoppyGlobe](https://abhayshoppyglobe.netlify.app/home)
+Live Preview - [ShoppyGlobe](https://abhayshoppyglobe.netlify.app)
 
 ### Installation
 - Download code in zip format
@@ -8,7 +8,7 @@ Live Preview - [ShoppyGlobe](https://abhayshoppyglobe.netlify.app/home)
 - Open your terminal and run `npm install` to download node modules
 - Download all the required packages (redux, redux toolkit, react-router-dom, yup)
 - Now run `npm run dev` on the terminal to open the project.
-- Live demo - [ShoppyGlobe](https://abhayshoppyglobe.netlify.app/home)
+- Live demo - [ShoppyGlobe](https://abhayshoppyglobe.netlify.app)
 
 ### Technology Used
 - React
