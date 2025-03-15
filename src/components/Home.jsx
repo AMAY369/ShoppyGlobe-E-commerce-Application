@@ -8,7 +8,7 @@ function Home() {
           <p className="text-8xl font font-extrabold text-fuchsia-950 max-w-2xl">Explore <span>THE BEST </span>Products </p>
           <p className="text-3xl mt-5">Shop the best products at the best prices.</p>
           <div className="mt-5">
-            <Link className="text-white text-xl font-semibold rounded-xl bg-red-500 px-5 py-3">Shop Now</Link>
+            <Link to='/products' className="text-white text-xl font-semibold rounded-xl bg-red-500 px-5 py-3">Shop Now</Link>
           </div>
         </div>
         <div>
